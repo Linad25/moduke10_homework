@@ -1,0 +1,17 @@
+button {
+	text-decoration:dashed;
+	text-transform: uppercase;
+	color: blueviolet;
+	background-color: black;
+}
+
+button:active {
+	background-color: blanchedalmond;
+}
+
+p {
+	font-style: italic;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: 800;
+	font-size: 20px;
+}
